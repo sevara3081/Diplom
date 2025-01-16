@@ -1,1 +1,0 @@
-{'attributes': {}, 'id': 'b2893772-1768-4f39-baef-9d366efe7348', 'relationships': {'products': {'data': [{'id': '3041792', 'type': 'product'}]}, 'suggests': {'data': [{'id': '898432487284716964', 'type': 'searchPhraseSuggest'}]}}, 'type': 'searchPhraseSuggestResult'}
